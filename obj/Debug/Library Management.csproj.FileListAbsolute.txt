@@ -1,0 +1,25 @@
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Library.mdf
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Library_log.ldf
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Library Management.exe.config
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Library Management.exe
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Library Management.pdb
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Entity.exe
+F:\Visual Studio Projects\Library Management\Library Management\bin\Debug\Entity.pdb
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library Management.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.showCards.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.LogIn.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.LibIntroduction.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.NewBookEntry.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.newStudent.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Properties.Resources.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.StudentIntroduction.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Update.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library Management.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library Management.exe
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library Management.pdb
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Update_Book.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Student_Data.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Borrow_Information.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Borrowed_Book_List.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Request_Table.resources
+F:\Visual Studio Projects\Library Management\Library Management\obj\Debug\Library_Management.Response_Page.resources
